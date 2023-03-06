@@ -1,3 +1,2 @@
 /backend/venv/
-/backend/api/api/__pycache__/
-/backend/api/portfolio/__pycache__/
+__pycache__
